@@ -6,6 +6,10 @@
 <LINK href="cztery_pierwsze_litery_nazwiska_z5_2.css" rel="stylesheet" type="text/CSS"> 
 </head> 
 <body bgcolor="silver"> 
+h1  { 
+ color:    zielony; 
+ font-size:  60px; 
+} 
 <h1> tutaj wpisz Twoje nazwisko  -> zewnętrzne</h1> 
 <H3>  h3 wpisany wielkością standardową</H3> 
 </body> 
