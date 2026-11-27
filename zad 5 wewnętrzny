@@ -1,0 +1,17 @@
+<html> 
+<head> 
+ <title>stylzewnetrzne</title> 
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+ <!--    wewnetrzny         --> 
+<style> 
+h1  { 
+ color:    red; 
+ font-size:  52px; 
+                     } 
+</style> 
+</head> 
+<body bgcolor="silver"> 
+<h1> tutaj wpisz Twoje nazwisko  -> zewnętrzne</h1> 
+<H3>  h3 wpisany wielkością standardową</H3> 
+</body> 
+</html>
